@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Elelinux Bakgrundsbilder</string>
+<string name="app_label">Elelinux Bakgrundsbilder</string>
+<string name="set_wallpaper">Välj Bakgrundsbild</string>
+<string name="no_wallpaper">Ingen Bakgrundsbild</string>
+</resources>
